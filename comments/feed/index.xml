@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Komentarze do otoedu	</title>
-	<atom:link href="http://hubertdudadeveloper.github.io/WebsiteStyle/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://hubertdudadeveloper.github.io/WebsiteStyle</link>
+	<atom:link href="https://hubertdudadeveloper.github.io/WebsiteStyle/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hubertdudadeveloper.github.io/WebsiteStyle</link>
 	<description></description>
 	<lastBuildDate>Fri, 12 Aug 2022 19:03:14 +0000</lastBuildDate>
 	<sy:updatePeriod>

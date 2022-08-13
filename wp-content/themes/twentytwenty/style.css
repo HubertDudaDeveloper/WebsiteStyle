@@ -263,7 +263,7 @@ Inter variable font. Usage:
 	font-weight: 100 900; /* stylelint-disable-line font-weight-notation */
 	font-style: normal;
 	font-display: swap;
-	src: url(http://hubertdudadeveloper.github.io/WebsiteStyle/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2) format("woff2");
+	src: url(https://hubertdudadeveloper.github.io/WebsiteStyle/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2) format("woff2");
 }
 
 @font-face {
@@ -271,7 +271,7 @@ Inter variable font. Usage:
 	font-weight: 100 900; /* stylelint-disable-line font-weight-notation */
 	font-style: italic;
 	font-display: swap;
-	src: url(http://hubertdudadeveloper.github.io/WebsiteStyle/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2) format("woff2");
+	src: url(https://hubertdudadeveloper.github.io/WebsiteStyle/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2) format("woff2");
 }
 
 
@@ -5877,7 +5877,7 @@ a.to-the-top > * {
 	}
 
 	.primary-menu li:last-child a::before {
-		content:url("http://hubertdudadeveloper.github.io/WebsiteStyle/wp-content/uploads/2022/08/Path-393.png");
+		content:url("https://hubertdudadeveloper.github.io/WebsiteStyle/wp-content/uploads/2022/08/Path-393.png");
 		padding: 35px;
 	}
 
